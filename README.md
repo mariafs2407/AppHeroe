@@ -5,7 +5,10 @@ Aplicación movil creada con react native, consumiendo la documentación SuperHe
 
 ## Características Principales:
 1. **La aplicacion tiene un buscador ,donde se ingresa el nombre del heroe y se presiona el boton para buscar.** 
-![Captura de inicio](./src/assets/captura/inicio.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./src/assets/captura/inicio.jpg" alt="Captura de inicio" style="max-width: 100%;">
+</div>
+
 
 2. **El buscador nos muestra la lista de heroes que tienen el nombre ingresado.** 
 ![Captura de inicio](./src/assets/captura/buscar.jpg)
