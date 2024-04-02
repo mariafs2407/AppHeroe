@@ -11,11 +11,17 @@ Aplicación movil creada con react native, consumiendo la documentación SuperHe
 
 
 2. **El buscador nos muestra la lista de heroes que tienen el nombre ingresado.** 
-![Captura de inicio](./src/assets/captura/buscar.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./src/assets/captura/buscar.jpg" alt="Captura de inicio" style="max-width: 100%;">
+</div>
 
 3. **Al seleccionar un heroe se puede ver sus datos personales, las habilidades que tiene como su ciudad como el nombre completo del heroe.**
-![Captura de inicio](./src/assets/captura/heroe.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./src/assets/captura/heroe.jpg" alt="Captura de inicio" style="max-width: 100%;">
+</div>
 
 4. **Si el buscador no encuentra resultados, muestra un mensaje de error.**
-![Captura de inicio](./src/assets/captura/sin-resultado.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./src/assets/captura/sin-resultado.jpg" alt="Captura de inicio" style="max-width: 100%;">
+</div>
 
